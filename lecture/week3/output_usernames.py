@@ -10,7 +10,6 @@ def main():
             temp_list = line.strip().split(',')
             print(temp_list[2])
         infile.close()
-
         print("{} items loaded from {}".format(num_user, csv_file))
     except IOError as err:
         print("I/O error: {0}".format(err))
