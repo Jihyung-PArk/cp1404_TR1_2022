@@ -1,10 +1,3 @@
-"""
-CP1404/CP5632 - Practical
-Broken program to determine score status
-"""
-
-# TODO: Fix this!
-
 from random import*
 
 def main():
@@ -26,8 +19,17 @@ def score_result(score):
         else:
             print("Bad")
 
-score = randint(-10,100)
-print(score)
+score = randint(0,100)
+
+
 
 main()
 
+socre_file = "result.txt"
+socre_out_file = open(socre_file, 'w')
+result = ("{}  is  {}".format(score, score_result(score)))
+print(result)
+print(result)
+print(result)
+
+score_file.close()

@@ -14,6 +14,7 @@ def main():
             the_password(print_password)
             password_length = True
 
+
         elif len(password) < 10:
             password = get_password()
             password_length = False
