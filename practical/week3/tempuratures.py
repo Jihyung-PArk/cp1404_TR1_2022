@@ -21,9 +21,8 @@ def main():
             # Hint: celsius = 5 / 9 * (fahrenheit - 32)
             # Remove the "pass" statement when you are done. It's a placeholder.
             fahrenheit = float(input("Fahrenheit: "))
-            celsius = cel_temp(celsius, fahrenheit)
+            celsius = cel_temp(fahrenheit)
             print("Result: {:.2f}C".format(celsius))
-            pass
         else:
             print("Invalid option")
         print(MENU)
@@ -31,12 +30,12 @@ def main():
     print("Thank you.")
 
 
-def cel_temp(celsius, fahrenheit):
+def cel_temp(fahrenheit):
     celsius = 5 / 9 * (fahrenheit - 32)
     return celsius
 
 
-def fah_temp(celsius):
+def fah_temp( celsius):
     fahrenheit = celsius * 9.0 / 5 + 32
     return fahrenheit
 
