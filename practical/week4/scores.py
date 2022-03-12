@@ -10,6 +10,7 @@ Use the debugger to follow what it's doing... then fix it.
 """
 
 
+
 def main():
     """Read and display student scores from scores file."""
     scores_file = open("scores.csv")

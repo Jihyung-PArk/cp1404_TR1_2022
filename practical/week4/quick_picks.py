@@ -1,5 +1,6 @@
 import random
 
+
 line_consist = 6
 minimum = 1
 maximum = 45

@@ -12,6 +12,7 @@ def main():
     subject_detail(data)
 
 
+
 def get_data():
     """Read data from file formatted like: subject,lecturer,number of students."""
     all_data = []
