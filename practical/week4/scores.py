@@ -23,12 +23,36 @@ def main():
         score_numbers = [int(value) for value in score_strings]
         score_values.append(score_numbers)
     scores_file.close()
-    for i in range(len(subjects)):
-        print(subjects[i], "Scores:")
-        for score in score_values[i]:
-            print(score)
-        print("Max:", max(score_values[i]))
-        print()
+    score_sub = score_subject(score_values)
+    display_subject_details(score_sub, subjects)
+
+
+
+
+def score_subject (score_values):
+    subject = []
+    for i in range(len(score_values[0])):
+        score_each_subject = []
+
+        # print(subjects[i], "Scores:")
+        for score in score_values:
+            score_each_subject.append(score.pop(0))
+        subject.append(score_each_subject)
+            # print(score)
+        # print("Max:", max(score_values[i]))
+        # print()
+    return subject
+
+
+def display_subject_details(score_sub, subject_names):
+    for i, score_each_subject in enumerate(score_sub):
+        print(subject_names[i], "Scores:")
+        for score in score_each_subject:
+            print("{:>2}".format(score))
+        print("Max: {:3}".format(max(score_each_subject)))
+        print("Min: {:3}".format(min(score_each_subject)))
+        print("Avg: {:6.2f}\n".format(
+            (sum(score_each_subject) / len(score_each_subject))))
 
 
 main()
