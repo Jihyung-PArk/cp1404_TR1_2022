@@ -44,6 +44,7 @@ def score_subject (score_values):
     return subject
 
 
+
 def display_subject_details(score_sub, subject_names):
     for i, score_each_subject in enumerate(score_sub):
         print(subject_names[i], "Scores:")
