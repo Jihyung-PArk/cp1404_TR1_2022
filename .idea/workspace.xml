@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1928d3a7-d6f0-4df4-981f-105d22cbab32" name="Changes" comment="parc week4">
-      <change afterPath="$PROJECT_DIR$/do_this_now.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1928d3a7-d6f0-4df4-981f-105d22cbab32" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,11 +55,14 @@
     <property name="database.data.extractors.current.export.id" value="SQL Updates" />
     <property name="database.data.extractors.current.id" value="SQL Updates" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/practical/week3" />
-    <property name="settings.editor.selected.configurable" value="vcs.Perforce" />
+    <property name="settings.editor.selected.configurable" value="Jupyter Settings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/practical/week3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lecture/week 5" />
     </key>
   </component>
   <component name="RunManager" selected="Python.test">
@@ -80,7 +79,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/do_this_now.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/week 5/do_this_now.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +189,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/week 5/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,7 +226,7 @@
       <workItem from="1647046343735" duration="22094000" />
       <workItem from="1647172421706" duration="54000" />
       <workItem from="1647172509951" duration="3052000" />
-      <workItem from="1647316649922" duration="3289000" />
+      <workItem from="1647316649922" duration="3644000" />
     </task>
     <task id="LOCAL-00001" summary="Test print">
       <created>1646110242027</created>
@@ -418,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647175858201</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary=".">
+      <created>1647320475281</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1647320475281</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -473,7 +479,8 @@
     <MESSAGE value="week3 parcs" />
     <MESSAGE value="parc week3" />
     <MESSAGE value="parc week4" />
-    <option name="LAST_COMMIT_MESSAGE" value="parc week4" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
