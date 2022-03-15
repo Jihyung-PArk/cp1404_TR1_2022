@@ -18,6 +18,16 @@ print(my_dict2["Tony"])
 for key in my_dict2:
     print(key)
 
-for key, value in my_dict2.item():
-    print("{:4d} - {}".format(key, value))
+for key, value in my_dict2.items():
+    print("{:10s} - {:10d}".format(key, value))
 
+name_to_age = {"Bill" : 17, "Jane" : 34, "Jack" : 56, "Sven" : 13}
+    # result = {name: age for name, age in name_to_age.items() if age < 18}
+# print(result)
+
+result = { }
+for name, age in name_to_age.items():
+    if age < 18:
+        result[name] = age
+
+print(result)
