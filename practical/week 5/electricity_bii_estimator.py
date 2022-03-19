@@ -12,4 +12,5 @@ else:
 daily_kwh = float(input("Enter daily use in kWh: "))
 billing_day = float(input("Enter number of billing days: "))
 
+
 print("Estimated bill: {:.2f}".format(traiff * daily_kwh * billing_day))
