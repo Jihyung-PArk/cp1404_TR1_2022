@@ -1,9 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1928d3a7-d6f0-4df4-981f-105d22cbab32" name="Changes" comment=".">
+    <list default="true" id="1928d3a7-d6f0-4df4-981f-105d22cbab32" name="Changes" comment="version 1.0.0">
+      <change afterPath="$PROJECT_DIR$/lecture/week6/do_it_now.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/week6/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/week6/pre-lecture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/week6/test_person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/week6/test_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/week6/users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week5/Extend_name_and_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week5/calculate_age.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week5/electricity_bii_estimator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week5/emails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week5/friend_name_and_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week5/hex_colour.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week5/information.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week5/input_parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week5/state_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week5/word_occurrence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week6/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week6/guitar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week6/guitar_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week6/guitars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week6/languages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week6/programming_language.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week6/used_cars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_3_2022,_2_25_am_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_3_2022__2_25_am__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture/week 5/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/week 5/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week 5/Extend_name_and_address.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week 5/calculate_age.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week 5/electricity_bii_estimator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week 5/emails.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week 5/friend_name_and_address.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week 5/hex_colour.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week 5/input_parameters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week 5/state_names.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week 5/word_occurrence.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +56,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -57,7 +95,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.data.extractors.current.export.id" value="SQL Updates" />
     <property name="database.data.extractors.current.id" value="SQL Updates" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/practical/week3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Jupyter Settings" />
   </component>
   <component name="RecentsManager">
@@ -68,21 +106,21 @@
       <recent name="$PROJECT_DIR$/lecture/week 5" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="do_this_now" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.guitars">
+    <configuration name="guitar_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.10/bin/python3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practical/week6" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/week 5/do_this_now.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practical/week6/guitar_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,20 +129,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_exercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cp1404_TR1_2022" />
+    <configuration name="guitars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practical/week4" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.10/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practical/week6" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practical/week4/list_exercises.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practical/week6/guitars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="languages" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.10/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practical/week6" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practical/week6/languages.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,20 +195,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="programming_language" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.10/bin/python3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practical/week4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practical/week6" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practical/week4/scores.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practical/week6/programming_language.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,42 +217,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sorting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="used_cars (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.10/bin/python3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practical/week4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practical/week6" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practical/week4/sorting.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.10/bin/python3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/week 5/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practical/week6/used_cars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.do_this_now" />
-        <item itemvalue="Python.sorting" />
-        <item itemvalue="Python.scores" />
-        <item itemvalue="Python.list_exercises" />
+        <item itemvalue="Python.guitars" />
+        <item itemvalue="Python.guitar_test" />
+        <item itemvalue="Python.languages" />
+        <item itemvalue="Python.programming_language" />
+        <item itemvalue="Python.used_cars (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +268,12 @@
       <workItem from="1647172421706" duration="54000" />
       <workItem from="1647172509951" duration="3052000" />
       <workItem from="1647316649922" duration="3709000" />
-      <workItem from="1647320586567" duration="1445000" />
+      <workItem from="1647320586567" duration="3395000" />
+      <workItem from="1647681312038" duration="9359000" />
+      <workItem from="1647837764117" duration="1144000" />
+      <workItem from="1648217554093" duration="2319000" />
+      <workItem from="1648522420274" duration="11926000" />
+      <workItem from="1648647121720" duration="7419000" />
     </task>
     <task id="LOCAL-00001" summary="Test print">
       <created>1646110242027</created>
@@ -442,7 +485,63 @@
       <option name="project" value="LOCAL" />
       <updated>1647320621055</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary=".">
+      <created>1647322549395</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1647322549396</updated>
+    </task>
+    <task id="LOCAL-00032" summary="version 1.0.0">
+      <created>1647324021672</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1647324021672</updated>
+    </task>
+    <task id="LOCAL-00033" summary="version 1.0.0">
+      <created>1647429981019</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1647429981019</updated>
+    </task>
+    <task id="LOCAL-00034" summary="version 1.0.0">
+      <created>1647682585439</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1647682585439</updated>
+    </task>
+    <task id="LOCAL-00035" summary="version 1.0.0">
+      <created>1647682597760</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1647682597760</updated>
+    </task>
+    <task id="LOCAL-00036" summary="version 1.0.0">
+      <created>1647692442974</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1647692442974</updated>
+    </task>
+    <task id="LOCAL-00037" summary="version 1.0.0">
+      <created>1647692589781</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1647692589781</updated>
+    </task>
+    <task id="LOCAL-00038" summary="version 1.0.0">
+      <created>1647701723701</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1647701723701</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +563,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="prac_06_feedback" />
                       </list>
                     </value>
                   </entry>
@@ -498,39 +597,69 @@
     <MESSAGE value="parc week3" />
     <MESSAGE value="parc week4" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="version 1.0.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1.0.0" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$pre_lecture.coverage" NAME="pre_lecture Coverage Results" MODIFIED="1646710776648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week 4" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$input_parameters.coverage" NAME="input_parameters Coverage Results" MODIFIED="1647693545945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week 5" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$subject_reader.coverage" NAME="subject_reader Coverage Results" MODIFIED="1647061359155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week4" />
-    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$random.coverage" NAME="random Coverage Results" MODIFIED="1646390252107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week2" />
-    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$quick_picks.coverage" NAME="quick_picks Coverage Results" MODIFIED="1647062005839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week4" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$pre_lecture.coverage" NAME="pre-lecture Coverage Results" MODIFIED="1648525492982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week6" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$scores.coverage" NAME="scores Coverage Results" MODIFIED="1647175279115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week4" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$random_things.coverage" NAME="random_things Coverage Results" MODIFIED="1646402999820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week2" />
-    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$password_checker__1_.coverage" NAME="password_checker (1) Coverage Results" MODIFIED="1646478585612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week3" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$friend_name_and_address.coverage" NAME="friend_name_and_address Coverage Results" MODIFIED="1647398545116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week 5" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$date_of_birth.coverage" NAME="date_of_birth Coverage Results" MODIFIED="1647692432055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week 5" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$capitalist_conrad.coverage" NAME="capitalist_conrad Coverage Results" MODIFIED="1646393304157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week2" />
-    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$lists_warmup.coverage" NAME="lists_warmup Coverage Results" MODIFIED="1647047556580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week4" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$used_cars.coverage" NAME="used_cars Coverage Results" MODIFIED="1648648037691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/prac_06" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$exceptions_demo.coverage" NAME="exceptions_demo Coverage Results" MODIFIED="1646394556541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week2" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$test_function.coverage" NAME="test_function Coverage Results" MODIFIED="1646316867559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week3" />
-    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$output_usernames.coverage" NAME="output_usernames Coverage Results" MODIFIED="1646112611564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week3" />
-    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$list_files.coverage" NAME="list_files Coverage Results" MODIFIED="1646458877591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week3" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$tempuratures.coverage" NAME="tempuratures Coverage Results" MODIFIED="1646542589323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week3" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$guitars.coverage" NAME="guitars Coverage Results" MODIFIED="1648686330828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week6" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$ascii_table.coverage" NAME="ascii_table Coverage Results" MODIFIED="1646457587749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week2" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$randoms.coverage" NAME="randoms Coverage Results" MODIFIED="1646391650162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week2" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$broken_score.coverage" NAME="broken_score Coverage Results" MODIFIED="1646542629699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week3" />
-    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$list_exercises.coverage" NAME="list_exercises Coverage Results" MODIFIED="1647101443014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week4" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$state_names.coverage" NAME="state_names Coverage Results" MODIFIED="1647347347147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week 5" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$word_occurrences.coverage" NAME="word_occurrences Coverage Results" MODIFIED="1647391535692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week 5" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$files.coverage" NAME="files Coverage Results" MODIFIED="1646398809828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week2" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$password_checker.coverage" NAME="password_checker Coverage Results" MODIFIED="1646401634977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week2" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$total_income.coverage" NAME="total_income Coverage Results" MODIFIED="1647051453843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week4" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$electricity_bii_estimator.coverage" NAME="electricity_bii_estimator Coverage Results" MODIFIED="1647682561918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week 5" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$string_formatting_examples.coverage" NAME="string_formatting_examples Coverage Results" MODIFIED="1646389005528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week2" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$Extend_name_and_address.coverage" NAME="Extend_name_and_address Coverage Results" MODIFIED="1647701699310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week 5" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$do_this_now.coverage" NAME="do_this_now Coverage Results" MODIFIED="1647317905674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$emails.coverage" NAME="emails Coverage Results" MODIFIED="1647393368149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week 5" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$test.coverage" NAME="test Coverage Results" MODIFIED="1647321289599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$random.coverage" NAME="random Coverage Results" MODIFIED="1646390252107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week2" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$quick_picks.coverage" NAME="quick_picks Coverage Results" MODIFIED="1647062005839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week4" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$password_checker__1_.coverage" NAME="password_checker (1) Coverage Results" MODIFIED="1646478585612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week3" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$lists_warmup.coverage" NAME="lists_warmup Coverage Results" MODIFIED="1647047556580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week4" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$output_usernames.coverage" NAME="output_usernames Coverage Results" MODIFIED="1646112611564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week3" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$list_files.coverage" NAME="list_files Coverage Results" MODIFIED="1646458877591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week3" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$test_person.coverage" NAME="test_person Coverage Results" MODIFIED="1648533547333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week6" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$used_cars__1_.coverage" NAME="used_cars (1) Coverage Results" MODIFIED="1648649596298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week6" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$programming_language.coverage" NAME="programming_language Coverage Results" MODIFIED="1648650815972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week6" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$languages.coverage" NAME="languages Coverage Results" MODIFIED="1648651325114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week6" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$test_users.coverage" NAME="test_users Coverage Results" MODIFIED="1648534805041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week6" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$list_exercises.coverage" NAME="list_exercises Coverage Results" MODIFIED="1647101443014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week4" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$guitar_test.coverage" NAME="guitar_test Coverage Results" MODIFIED="1648684619277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week6" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$sorting.coverage" NAME="sorting Coverage Results" MODIFIED="1647175738855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week4" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$exceptions_to_complete.coverage" NAME="exceptions_to_complete Coverage Results" MODIFIED="1646458076395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week2" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$list_comprehensons.coverage" NAME="list_comprehensons Coverage Results" MODIFIED="1647060218939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week4" />
-    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$string_formatting_examples.coverage" NAME="string_formatting_examples Coverage Results" MODIFIED="1646389005528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week2" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$activity2.coverage" NAME="activity2 Coverage Results" MODIFIED="1646719479644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week 4" />
-    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$do_it_now.coverage" NAME="do_it_now Coverage Results" MODIFIED="1646716643865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week 4" />
-    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$main.coverage" NAME="main Coverage Results" MODIFIED="1647317892775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$hex_colour.coverage" NAME="hex_colour Coverage Results" MODIFIED="1647346367634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week 5" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$do_it_now.coverage" NAME="do_it_now Coverage Results" MODIFIED="1648528863370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week6" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$main.coverage" NAME="main Coverage Results" MODIFIED="1648522756987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$password_check.coverage" NAME="password_check Coverage Results" MODIFIED="1646542449373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week3" />
-    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$do_this_now.coverage" NAME="do_this_now Coverage Results" MODIFIED="1647317905674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$test.coverage" NAME="test Coverage Results" MODIFIED="1647321289599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$car.coverage" NAME="car Coverage Results" MODIFIED="1648649531617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week6" />
   </component>
 </project>
