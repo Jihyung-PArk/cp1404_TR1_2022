@@ -1,3 +1,0 @@
-"""
-Jihyung Park
-"""
