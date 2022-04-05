@@ -6,7 +6,6 @@ from kivy.app import App
 from kivy.lang import Builder
 from kivy.properties import StringProperty
 
-
 class MVCDemo(App):
     """The class variable in the app is the 'model'."""
     message = StringProperty()
