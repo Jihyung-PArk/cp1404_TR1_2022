@@ -4,7 +4,7 @@ from kivy.lang import Builder
 
 class LabelDemo(App):
     def build(self):
-        self.title = ""
+        self.title = "First Time"
         self.root = Builder.load_file('label.kv')
         return self.root
 
