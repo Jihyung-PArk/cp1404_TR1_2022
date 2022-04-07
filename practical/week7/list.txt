@@ -1,0 +1,4 @@
+Bill Gates,72
+Elon Musk, 50
+Mark Zuckerberg, 37
+Steve Jobs, 67
