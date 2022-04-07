@@ -1,0 +1,25 @@
+BoxLayout:
+    orientation: 'vertical'
+    BoxLayout:
+        orientation: 'horizontal'
+        Button:
+            size_hint_x: 0.25
+            text:'Clear'
+        TextInput:
+            id:input_name
+            size_hint_x:0.75
+            text: ''
+
+    BoxLayout:
+        orientation: 'horizontal'
+        Button:
+            size_hint_x:0.25
+            text:'Greet'
+            on_press:app.greet()
+        Label:
+            id:output_name
+            size_hint_x:0.75
+            text:''
+            color:(1, 1, 0, 1)
+
+

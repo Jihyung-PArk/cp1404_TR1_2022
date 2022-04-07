@@ -1,0 +1,24 @@
+BoxLayout:
+    orientation:'vertical'
+    BoxLayout:
+        orientation: 'horizontal'
+        TextInput:
+            id: input_num
+            text: ""
+        BoxLayout:
+            orientation:'vertical'
+            size_hint_x:0.2
+            Button:
+                text: 'Up'
+                on_press :app.handle_increment(1)
+            Button:
+                text: 'Down'
+                on_press :app.handle_increment(-1)
+    Button:
+        text: 'Convert m to km'
+        on_press:app.handle_update()
+
+    Label:
+        id: output_num
+        color: (1, 1, 0, 1)
+        text:app.output_num

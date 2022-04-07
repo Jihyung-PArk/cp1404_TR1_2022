@@ -1,0 +1,25 @@
+BoxLayout:
+    orientation:'vertical'
+
+    TextInput:
+        id: input_num
+        text: ''
+        size_hint_y: 0.25
+
+    BoxLayout:
+        orientation: 'horizontal'
+        Button:
+            on_press:app.fahrenheit()
+            text: 'Convert to fahrenheit'
+
+        Button:
+            on_press:app.celsius()
+            text: 'Convert to celsius'
+        Button:
+            on_press:app.quit()
+            text: 'Quit'
+
+    Label:
+        id: output_num
+        text: ''
+        size_hint_y:0.25
