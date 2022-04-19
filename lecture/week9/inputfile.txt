@@ -1,0 +1,16 @@
+Task 1
+Create/Save ERD correctly as required in Workbench (.mwb file)
+	Correct attributes (1 mark for each table)
+	Correct PKs (1 mark for each table)
+	Relationships are constructed correctly (1 mark for each relationship)
+Total: /18
+
+Develop physical database having all tables required are correctly created
+	Correct attributes (1 mark for each table)
+	Correct PKs (1 mark for each table)
+	Data added correctly (1 mark for each table)
+	Correct relationships made between tables (1 mark for each relationship)
+Total: /24
+
+Task 2
+Total: /40
