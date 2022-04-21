@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7960cae-fa3c-4f9b-9acc-9a74c77bf37e" name="Changes" comment="version1.0.0">
-      <change afterPath="$PROJECT_DIR$/lecture/week9/create_folders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/week9/do_this_now.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/week9/do_this_now_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/week9/inputfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture/week 4/activity2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/week4/activity2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture/week 4/do_it_now.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/week4/do_it_now.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture/week 4/pre_lecture.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/week4/pre_lecture.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture/week 5/do_this_now.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/week5/do_this_now.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture/week 5/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/week5/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="b7960cae-fa3c-4f9b-9acc-9a74c77bf37e" name="Changes" comment="version1.0.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="prac_07_feedback" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,72 +46,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lecture/week9" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/practical" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lecture/week9" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.create_folders">
-    <configuration name="create_folders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test_employee">
+    <configuration name="eco_taxi_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.10/bin/python3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/week9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practical/week8" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/week9/create_folders.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="do_this_now" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.10/bin/python3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/week9" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/week9/do_this_now.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="do_this_now_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.10/bin/python3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/week9" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/week9/do_this_now_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practical/week8/eco_taxi_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,13 +142,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="trees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practical/week8" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practical/week8/trees.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trees_tester" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.10/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practical/week8" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practical/week8/trees_tester.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.create_folders" />
-        <item itemvalue="Python.do_this_now_1" />
-        <item itemvalue="Python.do_this_now" />
+        <item itemvalue="Python.trees_tester" />
+        <item itemvalue="Python.trees" />
         <item itemvalue="Python.test_employee" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.eco_taxi_test" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649775853303</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="version1.0.0">
+      <created>1650524544660</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650524544660</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
