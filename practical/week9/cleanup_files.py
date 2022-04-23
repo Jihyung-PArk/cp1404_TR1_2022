@@ -28,13 +28,15 @@ def get_fixed_filename_two(new_name):
 
     for i in range(len(character) - 1):
 
-        if character[i][1].islower() and character[i + 1][1].isupper():
-            new_name = new_name.replace(character[i + 1][1], "_" + character[i + 1][1])
-            return new_name
+        if character[i][1].isupper():
+            if character[i - 1][1].islower():
+                new_name = new_name.replace(character[i][1], "_" + character[i][1])
+                return new_name
 
-        if character[i][1].isupper() and character[i + 1][1].isupper():
-            new_name = new_name.replace(character[i + 1][1], "_" + character[i + 1][1])
-            return new_name
+            elif character[i - 1][1].isupper():
+                new_name = new_name.replace(character[i][1], "_" + character[i][1])
+                return new_name
+
         else:
             continue
 
