@@ -2,109 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7960cae-fa3c-4f9b-9acc-9a74c77bf37e" name="Changes" comment="version1.0.0">
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/Angels from the Realm of Glory.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/AngelsWeHaveHeard.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/Away In A Manger.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/HarkTheHerald.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/JoyToTheWorld.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/NewbornKing.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/O Come Emmanuel.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/O Come Let Us Adore Him (Hillsong).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/O Holy Night.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/O little town of bethlehem.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/OComeAllYeFaithful.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/SilentNight.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/TheFirstNoel.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/We Three Kings.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/Cornerstone.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/GloryToGodForever.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/GodOfThisCity.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/GodOfWonders.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/GreatIsThyFaithfulness.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/HereIAmToWorship.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/HolyHolyHoly.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/Hosanna(Highest).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/Hosanna.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/HowGreatIsOurGod.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/It'syourblood.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/ItIsWell (oh my soul).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/Jesus What a Beautiful Name.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/LoveCameDown.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/LoveTheLord.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/MyHopeIsBuilt.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/MySaviourLives.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/Salvation Belongs to Our God.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/Salvation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/ShoutYourFame.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/SoInLoveWithYou.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/TheHeartOfWorship.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/Unstoppable Love.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/WhatCanIDo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/WhenISurvey(modern).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/WhenISurvey.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/WhileWe Sing.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/WithUs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Old/indesciribable.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Special/Isaiah53_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Special/Remember The Lord.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Special/The Lord is King.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/10,000 Reasons (Bless The Lord).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/AliveInUs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/AllBecauseOfJesus.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/AllForLove.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Amazing Grace (Traditional).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/AmazingGrace(MyChainsAreGone).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/BecauseOfYourLove.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/BlessedBeYourName.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Build your Kingdom Here.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Crown Him (Majesty).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/DesertSong.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/EverlastingGod.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/ForeverReign.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/From The Day.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Glorified.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/GodIsAble.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/GodIsWithUsNow.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/GraceAlone.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Holy holy holy (God with us).TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/HowDeepTheFathersLove.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/HowGreatThouArt.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/InChristAlone.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Jesus Firm Foundation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Jesus Paid It All.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/JesusMessiah.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Joyful. (The One Who Saves).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Lord I Need You.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Majestic.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Man of Sorrows.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/MightyToSave.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/My Lighthouse.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/NeverOnce.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Oceans (Where Feet May Fail).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Offering.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/OneThingRemains.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/OpenMyEyes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/OpenTheEyesOfMyHeart.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/OurGod.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Psalm62.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Still.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Stronger.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/TheFirstAndTheLast.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/TheGreatnessOfOurGod.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/TheHopeOfAllHearts.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/This I Believe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/ThisIsOurGod.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/TodayIsTheDay.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Victor'sCrown.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/WeLiftYouUp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/Whom Shall I Fear.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/YouAreGood.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/Lyrics/Sunday/YoullCome.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/cleanup_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/os_demos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/sort_files_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical/week9/sort_files_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week9/find_certain_size.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practical/week9/missing_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas 2/Angels_WeHaveHeard.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas 2/Angels_from_the_Realm_of_Glory.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas 2/Away_In_A_Manger.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas 2/Hark_TheHerald.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas 2/Joy_To_TheWorld.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas 2/Merry_Merry_Christmas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas 2/Newborn_King.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas 2/OCome_AllYeFaithful.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas 2/O_Come_Emmanuel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas 2/O_Come_Let_Us_Adore_Him_(Hillsong).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas 2/O_Holy_Night.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas 2/O_little_town_of_bethlehem.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas 2/Silent_Night.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas 2/The_FirstNoel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas 2/We_Three_Kings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/Angels from the Realm of Glory.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/AngelsWeHaveHeard.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/AngelsWeHaveHeard._TX_T" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/Angels_from_the_Realm_of_Glory.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/Away In A Manger.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/Away_In_A_Manger.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/HarkTheHerald.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/JoyToTheWorld.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/JoyToThe_World.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/Merry_Merry_Christmas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/NewbornKing.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/Newborn_King.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/O Come Emmanuel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/O Come Let Us Adore Him (Hillsong).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/O Holy Night.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/O little town of bethlehem.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/O little town of bethlehem._TX_T" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/OComeAllYeFaithful.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/OComeAllYe_Faithful.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/O_Come_Emmanuel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/O_Come_Let_Us_Adore_Him_(Hillsong).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/O_Holy_Night.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/SilentNight.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/Silent_Night.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/TheFirstNoel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/TheFirst_Noel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/We Three Kings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/We_Three_Kings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Christmas/_HarkThe_Herald.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Special 2/Isaiah53_6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Special 2/Remember The Lord.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/Lyrics/Special 2/The Lord is King.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practical/week9/cleanup_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/practical/week9/cleanup_files.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +113,7 @@
       <recent name="$PROJECT_DIR$/lecture/week9" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sort_files_2">
+  <component name="RunManager" selected="Python.find_certain_size">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,6 +158,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="find_certain_size" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.10/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practical/week9" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practical/week9/find_certain_size.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,7 +202,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="os_demos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="missing_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -245,7 +215,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practical/week9/os_demos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practical/week9/missing_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,43 +268,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="trees_tester" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.10/bin/python3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practical/week8" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practical/week8/trees_tester.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.os_demos" />
-      <item itemvalue="Python.trees_tester" />
       <item itemvalue="Python.cleanup_files" />
       <item itemvalue="Python.sort_files_1" />
       <item itemvalue="Python.sort_files_2" />
+      <item itemvalue="Python.missing_data" />
+      <item itemvalue="Python.find_certain_size" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.find_certain_size" />
+        <item itemvalue="Python.cleanup_files" />
+        <item itemvalue="Python.missing_data" />
         <item itemvalue="Python.sort_files_2" />
         <item itemvalue="Python.sort_files_1" />
-        <item itemvalue="Python.cleanup_files" />
-        <item itemvalue="Python.os_demos" />
-        <item itemvalue="Python.trees_tester" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +324,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650524703060</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="version1.0.0">
+      <created>1650634729760</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650634729760</updated>
+    </task>
+    <task id="LOCAL-00006" summary="version1.0.0">
+      <created>1650687966294</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650687966294</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,7 +381,8 @@
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$scores.coverage" NAME="scores Coverage Results" MODIFIED="1647175279115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week4" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$taxi_simulator.coverage" NAME="taxi_simulator Coverage Results" MODIFIED="1650005887920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week8" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$random_things.coverage" NAME="random_things Coverage Results" MODIFIED="1646402999820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week2" />
-    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$cleanup_files.coverage" NAME="cleanup_files Coverage Results" MODIFIED="1650629294078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week9" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$cleanup_files.coverage" NAME="cleanup_files Coverage Results" MODIFIED="1650692852542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week9" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$missing_data.coverage" NAME="missing_data Coverage Results" MODIFIED="1650692221503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week9" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$friend_name_and_address.coverage" NAME="friend_name_and_address Coverage Results" MODIFIED="1647398545116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week 5" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$date_of_birth.coverage" NAME="date_of_birth Coverage Results" MODIFIED="1647692432055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week 5" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$capitalist_conrad.coverage" NAME="capitalist_conrad Coverage Results" MODIFIED="1646393304157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week2" />
@@ -429,6 +392,7 @@
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$id_demo.coverage" NAME="id_demo Coverage Results" MODIFIED="1649138215662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week7/KivyDemos" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$exceptions_demo.coverage" NAME="exceptions_demo Coverage Results" MODIFIED="1646394556541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week2" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$mvc_demo.coverage" NAME="mvc_demo Coverage Results" MODIFIED="1649228145729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week7/KivyDemos" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$sort_files_2.coverage" NAME="sort_files_2 Coverage Results" MODIFIED="1650634491936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week9" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$dynamic_widgets__1_.coverage" NAME="dynamic_widgets (1) Coverage Results" MODIFIED="1649338266890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week7" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$test_function.coverage" NAME="test_function Coverage Results" MODIFIED="1646316867559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week3" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$dynamic_labels.coverage" NAME="dynamic_labels Coverage Results" MODIFIED="1649339919895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week7" />
@@ -494,6 +458,7 @@
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$password_check.coverage" NAME="password_check Coverage Results" MODIFIED="1646542449373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week3" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$squaring.coverage" NAME="squaring Coverage Results" MODIFIED="1649209069686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week7/KivyDemos" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$trees_tester.coverage" NAME="trees_tester Coverage Results" MODIFIED="1650119004374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week8" />
+    <SUITE FILE_PATH="coverage/cp1404_TR1_2022$find_certain_size.coverage" NAME="find_certain_size Coverage Results" MODIFIED="1650700336694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week9" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$car.coverage" NAME="car Coverage Results" MODIFIED="1648649531617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week6" />
     <SUITE FILE_PATH="coverage/cp1404_TR1_2022$unreliable_car_test.coverage" NAME="unreliable_car_test Coverage Results" MODIFIED="1649858510065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practical/week8" />
   </component>

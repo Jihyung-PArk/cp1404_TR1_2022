@@ -25,9 +25,12 @@ def get_fixed_filename(filename):
     print(character)
     for i in range(len(character) - 1):
         if character[i][1].islower() and character[i+1][1].isupper():
-            new_name = filename.replace(character[i+1][1], "_"+character[i+1][1])
+            while not character[i][1].islower() and character[i+1][1].isupper():
+                new_name = filename.replace(character[i+1][1], "_"+character[i+1][1])
         elif character[i][1].isupper() and character[i+1][1].isupper():
             new_name = filename.replace(character[i + 1][1], "_" + character[i + 1][1])
+
+
 
 
     return new_name
